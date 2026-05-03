@@ -23,6 +23,9 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
@@ -31,6 +34,8 @@
 	</dict>
 	<key>NSHealthShareUsageDescription</key>
 	<string>幸福度スコア計算のために歩数と睡眠データを使用します。</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>幸福度スコアをヘルスケアに記録します。</string>
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-9404799280370656~PLACEHOLDER</string>
 	<key>SKAdNetworkItems</key>
