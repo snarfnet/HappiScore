@@ -39,7 +39,7 @@
 	<key>NSHealthUpdateUsageDescription</key>
 	<string>幸福度スコアをヘルスケアに記録します。</string>
 	<key>GADApplicationIdentifier</key>
-	<string>ca-app-pub-9404799280370656~PLACEHOLDER</string>
+	<string>ca-app-pub-9404799280370656~9470931997</string>
 	<key>SKAdNetworkItems</key>
 	<array>
 		<dict>
