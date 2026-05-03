@@ -32,6 +32,8 @@
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 	</dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<key>NSHealthShareUsageDescription</key>
 	<string>幸福度スコア計算のために歩数と睡眠データを使用します。</string>
 	<key>NSHealthUpdateUsageDescription</key>
