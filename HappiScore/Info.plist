@@ -40,6 +40,8 @@
 	<string>幸福度スコアをヘルスケアに記録します。</string>
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-9404799280370656~9470931997</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This app uses tracking to show you relevant ads and improve your experience.</string>
 	<key>SKAdNetworkItems</key>
 	<array>
 		<dict>
